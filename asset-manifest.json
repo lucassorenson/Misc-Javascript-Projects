@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "lucassorenson.github.io/Misc-Javascript-Projects/static/css/main.88ca6766.chunk.css",
-    "main.js": "lucassorenson.github.io/Misc-Javascript-Projects/static/js/main.11bc5d35.chunk.js",
-    "main.js.map": "lucassorenson.github.io/Misc-Javascript-Projects/static/js/main.11bc5d35.chunk.js.map",
-    "runtime-main.js": "lucassorenson.github.io/Misc-Javascript-Projects/static/js/runtime-main.c67eb310.js",
-    "runtime-main.js.map": "lucassorenson.github.io/Misc-Javascript-Projects/static/js/runtime-main.c67eb310.js.map",
-    "static/js/2.038597b5.chunk.js": "lucassorenson.github.io/Misc-Javascript-Projects/static/js/2.038597b5.chunk.js",
-    "static/js/2.038597b5.chunk.js.map": "lucassorenson.github.io/Misc-Javascript-Projects/static/js/2.038597b5.chunk.js.map",
-    "index.html": "lucassorenson.github.io/Misc-Javascript-Projects/index.html",
-    "precache-manifest.a4332eb507046f4815bfb430dd1d1127.js": "lucassorenson.github.io/Misc-Javascript-Projects/precache-manifest.a4332eb507046f4815bfb430dd1d1127.js",
-    "service-worker.js": "lucassorenson.github.io/Misc-Javascript-Projects/service-worker.js",
-    "static/css/main.88ca6766.chunk.css.map": "lucassorenson.github.io/Misc-Javascript-Projects/static/css/main.88ca6766.chunk.css.map"
+    "main.css": "/Misc-Javascript-Projects/static/css/main.88ca6766.chunk.css",
+    "main.js": "/Misc-Javascript-Projects/static/js/main.11bc5d35.chunk.js",
+    "main.js.map": "/Misc-Javascript-Projects/static/js/main.11bc5d35.chunk.js.map",
+    "runtime-main.js": "/Misc-Javascript-Projects/static/js/runtime-main.b514e154.js",
+    "runtime-main.js.map": "/Misc-Javascript-Projects/static/js/runtime-main.b514e154.js.map",
+    "static/js/2.038597b5.chunk.js": "/Misc-Javascript-Projects/static/js/2.038597b5.chunk.js",
+    "static/js/2.038597b5.chunk.js.map": "/Misc-Javascript-Projects/static/js/2.038597b5.chunk.js.map",
+    "index.html": "/Misc-Javascript-Projects/index.html",
+    "precache-manifest.56b034f7f3cb2803ca1f12ec9f329e3f.js": "/Misc-Javascript-Projects/precache-manifest.56b034f7f3cb2803ca1f12ec9f329e3f.js",
+    "service-worker.js": "/Misc-Javascript-Projects/service-worker.js",
+    "static/css/main.88ca6766.chunk.css.map": "/Misc-Javascript-Projects/static/css/main.88ca6766.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.c67eb310.js",
+    "static/js/runtime-main.b514e154.js",
     "static/js/2.038597b5.chunk.js",
     "static/css/main.88ca6766.chunk.css",
     "static/js/main.11bc5d35.chunk.js"
