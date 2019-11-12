@@ -2,7 +2,7 @@
   "name": "misc-javascript-projects",
   "version": "0.1.0",
   "private": true,
-  "homepage": "lucassorenson.github.io/Misc-Javascript-Projects",
+  "homepage": "https://lucassorenson.github.io/Misc-Javascript-Projects/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
