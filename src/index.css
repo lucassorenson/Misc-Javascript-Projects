@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+
+
+html:before, html:after {
+  content: "";
+  position: fixed;
+  background: blue;
+  left: 0;
+  right: 0;
+  height: 10px;
+}
+html:before {
+  top: 0;
+}
+html:after {
+  bottom: 0;
+}
+html {
+  border-left: 10px solid blue;
+  border-right: 10px solid blue;  
+  background-color: lightblue;
+  padding: 30px;
+  height: 100%
+}

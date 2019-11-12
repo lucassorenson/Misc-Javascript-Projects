@@ -1,22 +1,32 @@
-.App {
+h1 {
   text-align: center;
+  text-decoration: underline;
+  margin-top: 0px
 }
 
-.App-logo {
-  height: 40vmin;
+h2 {
+  margin-top: 0px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.project{
+  text-align: center;
+  width: 80%;
+  margin: auto;
+  padding: 10px;
+  opacity: 1;
+  border-radius: 10px;
+  border: 2px solid black;
+  box-shadow: 5px solid white, 8px solid black;
 }
 
-.App-link {
-  color: #09d3ac;
+.btn a {
+  text-decoration: none;
+  color: black;
+
+}
+
+footer {
+  margin: 20px;
+  text-align: center;
+  font-size: 1.3em;
 }
