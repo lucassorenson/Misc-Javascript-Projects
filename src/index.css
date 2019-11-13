@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: inherit !important
 }
 
 code {
@@ -33,5 +34,4 @@ html {
   border-right: 10px solid blue;  
   background-color: lightblue;
   padding: 30px;
-  height: 100%
 }

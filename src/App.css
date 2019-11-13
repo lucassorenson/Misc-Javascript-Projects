@@ -11,22 +11,56 @@ h2 {
 .project{
   text-align: center;
   width: 80%;
-  margin: auto;
+  margin: 50px auto;
   padding: 10px;
   opacity: 1;
   border-radius: 10px;
   border: 2px solid black;
-  box-shadow: 5px solid white, 8px solid black;
+}
+
+.btn {
+  border: 1px solid black !important;
+  margin: 2px;
+  box-shadow: 1px 1px rgba(0, 0, 0, 0.4);
 }
 
 .btn a {
   text-decoration: none;
-  color: black;
-
+  color: white;
 }
 
 footer {
   margin: 20px;
   text-align: center;
   font-size: 1.3em;
+}
+
+/* Pomodoro Clock */
+
+#clock-body{
+  background-color: lightsalmon;
+  box-shadow: 7px 7px lightsalmon, 10px 10px black;
+}
+
+#control-time-left {
+  display: flex;
+  justify-content: space-around;
+}
+
+#control-time-left > div {
+  display: flex
+}
+
+.timer-control-label {
+  background-color: rgb(255, 232, 223);
+  border-radius: 10px;
+  border: 1px solid black;
+  font-size: 1.5em;
+  padding: 10px;
+  box-shadow: 2px 2px rgb(255, 232, 223), 3px 3px black
+}
+
+#control-time-left .btn {
+  align-self: center;
+  margin: 0 3px 0 5px
 }
