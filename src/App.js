@@ -10,7 +10,7 @@ function App() {
       <h1>Miscellaneous JavaScript Projects</h1>
       <QuoteMachine />
       <PomodoroClock />
-      <footer><strong>Created by <a href="www.lucassorenson.github.io" target="_blank">Lucas Sorenson</a></strong></footer>
+      <footer><strong>Created by <a href="https://www.lucassorenson.github.io" target="_blank">Lucas Sorenson</a></strong></footer>
     </div>
   );
 }
